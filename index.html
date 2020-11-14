@@ -1,10 +1,19 @@
 ---
 layout: default
-title: "Robert Rosas's Programming Portfolio"
+title: "Home"
 ---
 
 <h1>Robert Rosas's Programming Portfolio</h1>
 
-{% for project in site.projects %}
+<h2>Big Projects</h2>
+{% for project in site.big_projects %}
+
     <a href="{{project.url}}">{{project.name}}</a>
+
+{% endfor %}
+<h2>Small Projects</h2>
+{% for project in site.small_projects %}
+
+    <a href="{{project.url}}">{{project.name}}</a>
+
 {% endfor %}

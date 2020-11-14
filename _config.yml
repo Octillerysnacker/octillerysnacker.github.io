@@ -3,12 +3,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Robert Rosas's Programming Portfolio" # the name of your site, e.g. ACME Corp.
 
 collections:
-  projects:
+  big_projects:
+    output: true
+  small_projects:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "projects"
+      type: "big_projects"
     values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "small_projects"
+    values: 
       layout: "project"
