@@ -1,0 +1,13 @@
+<nav>
+    {% for project in site.big_projects %}
+    <a href="{{ project.url }}" {% if page.url == project.url %}style="color: red;"{% endif %}>
+      {{ project.name }}
+    </a>
+  {% endfor %}
+
+  {% for project in site.small_projects %}
+  <a href="{{ project.url }}" {% if page.url == project.url %}style="color: red;"{% endif %}>
+    {{ project.name }}
+  </a>
+{% endfor %}
+</nav>

@@ -2,18 +2,27 @@
 layout: default
 title: "Home"
 ---
-
+<style>
+    img{
+        height:320px
+    }
+</style>
 <h1>Robert Rosas's Programming Portfolio</h1>
 
 <h2>Big Projects</h2>
 {% for project in site.big_projects %}
-
-    <a href="{{project.url}}">{{project.name}}</a>
+    <div>
+        <a href="{{project.url}}">{{project.name}}</a>
+        <img src={{"/assets/images/" | prepend: site.url | append: project.image}}/>
+    </div>
+    
 
 {% endfor %}
 <h2>Small Projects</h2>
 {% for project in site.small_projects %}
 
+<div>
     <a href="{{project.url}}">{{project.name}}</a>
-
+    <img src={{"/assets/images/" | prepend: site.url | append: project.image}}/>
+</div>
 {% endfor %}
