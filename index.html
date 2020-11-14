@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Robert Rosas's Programming Portfolio"
+---
+
+<h1>Robert Rosas's Programming Portfolio</h1>
+
+{% for project in site.projects %}
+    <a href="{{project.url}}">{{project.name}}</a>
+{% endfor %}
