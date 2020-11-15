@@ -9,11 +9,13 @@ The program is monstrous. It’s split up into 5 separate projects with an addit
 
 ## Videos
 
-I made a video showcasing the program to my computer science teacher:
+I made a video showcasing the program to my computer science teacher, Mr. Beauchamp:
 
-<iframe src="https://drive.google.com/file/d/1rG-efakl6TZ96u9x-ZeqHwo6dBh83MsO/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1rG-efakl6TZ96u9x-ZeqHwo6dBh83MsO/preview" class="video"></iframe>
 
 ## Additional Links
 
-Here’s the source code (ZIP):
-[FPT.zip](https://drive.google.com/file/d/1KI2DhO5vnk0-kVBFfV7lx8he5xacLaSm/view?usp=sharing)
+If you want to view the Github Project board and all linked repositories, you can visit this link: [https://github.com/users/Octillerysnacker/projects/1/](https://github.com/users/Octillerysnacker/projects/1/)
+
+Alternatively, if you want a single file with all related projects, you can download this zip file:
+[https://drive.google.com/file/d/1KI2DhO5vnk0-kVBFfV7lx8he5xacLaSm/view?usp=sharing](https://drive.google.com/file/d/1KI2DhO5vnk0-kVBFfV7lx8he5xacLaSm/view?usp=sharing)

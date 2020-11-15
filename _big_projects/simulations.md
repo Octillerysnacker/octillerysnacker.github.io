@@ -1,7 +1,7 @@
 ---
 name: Robot Simulations
 image: image7.png
-summary: Simulations of Clayton High School's robot, for developing robot code at home.
+summary: Simulations of Clayton High School's robot, for developing robot code without the robot.
 ---
 I made a simulation of my robotics team’s robot. I run a virtual robot and the robot’s code on my computer simultaneously; they connect with each other and I can interact with the virtual robot in exactly the same way as the real one. In addition, the code is the same for both the virtual and real robot, so it’s easy to test my code without the real robot.
 
@@ -15,13 +15,13 @@ I built the robot simulations with C# using Unity and Visual Studio, while the c
 
 I start up the video showing simulated robot code and the program we use to drive the robot in real life. Unfortunately, it’s not the same code as our 2019 robot, but the capability exists. I show I can move and steer the robot with the controller.
 
-<iframe src="https://drive.google.com/file/d/1tYx_7uJ7n5KWYfcmkQkbgKJpjBjJ8q7E/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1tYx_7uJ7n5KWYfcmkQkbgKJpjBjJ8q7E/preview" class="video"></iframe>
 
-Same scenario as above, but I show that the simulated robot can pick up balls and place them in structures.
+This video is the same scenario as above, but I show that the simulated robot can pick up balls and place them in structures.
 
-<iframe src="https://drive.google.com/file/d/1Q6EcMuhJILCXsFb5bzV3Rc1xNogENhsZ/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1Q6EcMuhJILCXsFb5bzV3Rc1xNogENhsZ/preview" class="video"></iframe>
 
-The release video for our real 2019 robot as a comparison to the simulation (starting at 34 seconds to show ball placing.) Obviously, the real robot has plenty more capabilities but I had no reason to implement everything.
+This is the release video for our real 2019 robot as a comparison to the simulation (starting at 34 seconds to show ball placing.) Obviously, the real robot has plenty more capabilities but I had no reason to implement everything.
 
 <iframe width="687" height="386" src="https://www.youtube.com/embed/OaNF-Erl2Xw?start=34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,7 +29,7 @@ The release video for our real 2019 robot as a comparison to the simulation (sta
 
 I show a virtual robot autonomously following a set path. It’s the same code used on the real 2020 robot!!!
 
-<iframe src="https://drive.google.com/file/d/1_a-ZctrLhBRgMofLXju8Ly5RJ1Ve8Y7B/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1_a-ZctrLhBRgMofLXju8Ly5RJ1Ve8Y7B/preview" class="video"></iframe>
 
 ## Additional links
 
