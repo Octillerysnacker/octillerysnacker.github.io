@@ -1,5 +1,4 @@
 ---
-title: "Project: Chat Room"
 name: Chat Room
 image: image1.png
 ---

@@ -1,5 +1,4 @@
 ---
-title: "Project: FRC Programmer Trainer"
 name: FRC Programmer Trainer
 image: image6.png
 ---

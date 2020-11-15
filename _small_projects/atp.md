@@ -1,5 +1,4 @@
 ---
-title: "Project: Flying ATP Synthase"
 name: Flying ATP Synthase
 image: image2.png
 ---

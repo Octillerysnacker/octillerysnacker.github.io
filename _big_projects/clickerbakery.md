@@ -1,6 +1,5 @@
 ---
 name: Clicker Bakery
-title: "Project: Clicker Bakery"
 image: image4.png
 ---
 

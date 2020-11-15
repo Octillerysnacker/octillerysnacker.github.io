@@ -1,5 +1,4 @@
 ---
-title: "Project: Grade Manager"
 name: Grade Manager
 image: image3.png
 ---
