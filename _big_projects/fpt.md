@@ -1,6 +1,7 @@
 ---
 name: FRC Programmer Trainer
 image: image6.png
+summary: A VS Code extension that teaches people to program Java, directly in VS Code.
 ---
 FRC Programmer Trainer was my attempt to make a hands-on Codecademy-esque program which taught new members how to code, directly in VS Code. You choose an exercise to load, and the program opens up a folder with instructions. Then, once you have your files, you “submit” your code, and it is automatically checked by the program!
 

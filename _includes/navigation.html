@@ -1,13 +1,27 @@
 <nav>
+  <h1>Navigation</h1>
+  <a href="{{site.url}}" {% if page.url == "/" %}class="current"{% endif %}>Home</a>
+  <p>Big Projects</p>
+  <ul>
     {% for project in site.big_projects %}
-    <a href="{{ project.url }}" {% if page.url == project.url %}style="color: red;"{% endif %}>
+    <li>
+    <a href="{{ project.url }}" {% if page.url == project.url %}class="current"{% endif %}>
       {{ project.name }}
     </a>
+    </li>
   {% endfor %}
+  </ul>
+  <p>Small Projects</p>
+  <ul>
+    {% for project in site.small_projects %}
+    <li>
+    <a href="{{ project.url }}" {% if page.url == project.url %}class="current"{% endif %}>
+      {{ project.name }}
+    </a>
+    </li>
+  {% endfor %}
+  </ul>
 
-  {% for project in site.small_projects %}
-  <a href="{{ project.url }}" {% if page.url == project.url %}style="color: red;"{% endif %}>
-    {{ project.name }}
-  </a>
-{% endfor %}
+
+
 </nav>

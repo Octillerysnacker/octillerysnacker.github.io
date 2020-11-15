@@ -1,6 +1,7 @@
 ---
 name: Chat Room
 image: image1.png
+summary: A real-time chat room to explore networking between computers.
 ---
 
 I made a chatroom to try out real time communication between programs and computers. That’s about it.

@@ -1,6 +1,7 @@
 ---
 name: Robot Simulations
 image: image7.png
+summary: Simulations of Clayton High School's robot, for developing robot code at home.
 ---
 I made a simulation of my robotics team’s robot. I run a virtual robot and the robot’s code on my computer simultaneously; they connect with each other and I can interact with the virtual robot in exactly the same way as the real one. In addition, the code is the same for both the virtual and real robot, so it’s easy to test my code without the real robot.
 

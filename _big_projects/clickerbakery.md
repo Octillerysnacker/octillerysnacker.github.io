@@ -1,6 +1,7 @@
 ---
 name: Clicker Bakery
 image: image4.png
+summary: A clicker game about cakes, croissants, and cats.
 ---
 
 I made a “clicker game” which can be played on the browser. You click the little chef and gain hearts, which you spend to upgrade the chef to get more hearts, which you spend to buy cats and cakes and croissants. I wanted to try building a fun website, and I thought this sort of game would be a good start. The art was made by a friend.

@@ -1,26 +1,30 @@
 ---
+title: Home
 layout: default
 ---
-<style>
-    img{
-        height:320px
-    }
-</style>
 
-<h2>Big Projects</h2>
+<h1>Big Projects</h1>
 {% for project in site.big_projects %}
-    <div>
-        <a href="{{project.url}}">{{project.name}}</a>
-        <img src={{"/assets/images/" | prepend: site.url | append: project.image}}/>
+    <div class="project">
+        <div class="caption">
+            <h2><a href="{{project.url}}">{{project.name}}</a></h2>
+            <p>{{project.summary}}</p>
+            <a class="btn" href="{{project.url}}">View Project</a>
+        </div>
+        <img src="{{"/assets/images/" | prepend: site.url | append: project.image}}"/>
     </div>
     
 
 {% endfor %}
-<h2>Small Projects</h2>
+<h1>Small Projects</h1>
 {% for project in site.small_projects %}
 
-<div>
-    <a href="{{project.url}}">{{project.name}}</a>
-    <img src={{"/assets/images/" | prepend: site.url | append: project.image}}/>
+<div class="project">
+    <div class="caption">
+        <h2><a href="{{project.url}}">{{project.name}}</a></h2>
+        <p>{{project.summary}}</p>
+        <a class="btn" href="{{project.url}}">View Project</a>
+    </div>
+    <img src="{{"/assets/images/" | prepend: site.url | append: project.image}}"/>
 </div>
 {% endfor %}

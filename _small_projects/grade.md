@@ -1,6 +1,7 @@
 ---
 name: Grade Manager
 image: image3.png
+summary: A command line application to manage classes and grades.
 ---
 I made this project for my AP CompSci Principles course as the create task. It’s essentially a command line class manager, where you can add classes (but can’t remove them.) In addition, the classes are stored in a database so that your classes are saved when you open and close the program.
 
