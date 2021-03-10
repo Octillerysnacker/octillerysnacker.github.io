@@ -9,9 +9,9 @@ The program is monstrous. It’s split up into 5 separate projects with an addit
 
 ## Videos
 
-I made a video showcasing the program to my computer science teacher, Mr. Beauchamp:
+Here's a video demonstrating the project.
 
-<iframe src="https://drive.google.com/file/d/1rG-efakl6TZ96u9x-ZeqHwo6dBh83MsO/preview" class="video"></iframe>
+<iframe src="https://drive.google.com/file/d/1e9oSWwHnG562RKlNoKRovTlghg8LD0L0/preview" class="video"></iframe>
 
 ## Additional Links
 

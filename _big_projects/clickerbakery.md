@@ -10,37 +10,10 @@ I built the website with C# using Visual Studio and the ASP.NET Blazor framework
 
 ## Videos
 
-These videos show the website in action. 
+This video shows the website in action.
 
-### Visiting the Website
+<iframe src="https://drive.google.com/file/d/1pOXEjzwlwbdhnUo-XPxVbjGuPJ2lF_ZG/preview" class="video"></iframe>
 
-In the first video, I visit the website. It’s a real thing you can click!
-
-<iframe src="https://drive.google.com/file/d/1pt2Nvhdmoks4X3ZRYESCUbK8nsWi1lC_/preview" class="video"></iframe>
-
-### Game Basics
-
-I click on the chef to gain hearts.
-
-<iframe src="https://drive.google.com/file/d/1vB3BWRmEQ4QhD9u7Mn3AZdhWCXBIhkAs/preview" class="video"></iframe>
-
-### Spending Hearts
-
-I buy a golden chef, showing that hearts can be spent.
-
-<iframe src="https://drive.google.com/file/d/1hZOmTvfiq9aeCwegIrBJgjRrDUDvWN1x/preview" class="video"></iframe>
-
-### Buying Items
-
-I buy a strawberry cake to show that multiple items can be bought.
-
-<iframe src="https://drive.google.com/file/d/1lFI8_qOYgzb9_n8Hxc2uvCdS3VqLxYF_/preview" class="video"></iframe>
-
-### Gameplay
-
-I show the end result of playing a lot of Clicker Bakery.
-
-<iframe src="https://drive.google.com/file/d/1zcFcriq52Fa1M9qugZxZEOa0ls4QTMS6/preview" class="video"></iframe>
 
 ## Additional Links
 

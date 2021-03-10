@@ -13,23 +13,15 @@ I built the robot simulations with C# using Unity and Visual Studio, while the c
 
 ### 2019 Simulation Prototype
 
-I start up the video showing simulated robot code and the program we use to drive the robot in real life. Unfortunately, it’s not the same code as our 2019 robot, but the capability exists. I show I can move and steer the robot with the controller.
+Here's a video demonstrating the 2019 simulation and comparing it to the 2019 robot.
 
-<iframe src="https://drive.google.com/file/d/1tYx_7uJ7n5KWYfcmkQkbgKJpjBjJ8q7E/preview" class="video"></iframe>
-
-This video is the same scenario as above, but I show that the simulated robot can pick up balls and place them in structures.
-
-<iframe src="https://drive.google.com/file/d/1Q6EcMuhJILCXsFb5bzV3Rc1xNogENhsZ/preview" class="video"></iframe>
-
-This is the release video for our real 2019 robot as a comparison to the simulation (starting at 34 seconds to show ball placing.) Obviously, the real robot has plenty more capabilities but I had no reason to implement everything.
-
-<iframe width="687" height="386" src="https://www.youtube.com/embed/OaNF-Erl2Xw?start=34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1zBOdNKF-hgHQruIWDpEYNv5grA2rjer3/preview" class="video"></iframe>
 
 ### 2020 Simulation
 
-I show a virtual robot autonomously following a set path. It’s the same code used on the real 2020 robot!!!
+Here's a video demonstrating the 2020 simulation and comparing it to the 2020 robot. The simulation uses the same code as the real robot!!!
 
-<iframe src="https://drive.google.com/file/d/1_a-ZctrLhBRgMofLXju8Ly5RJ1Ve8Y7B/preview" class="video"></iframe>
+<iframe src="https://drive.google.com/file/d/1iNMe4kQvA8PIEJC2mI_wKQtwz4RIE4QV/preview" class="video"></iframe>
 
 ## Additional links
 

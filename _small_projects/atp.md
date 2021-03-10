@@ -11,13 +11,9 @@ I made this in C# using Unity and Visual Studio.
 
 ## Videos
 
-This video show a single, immobile ATP Synthase which accepts electrons, spins, and sends them off.
+This video is just a two minute clip of the simulation running. You can see ATP Synthase objects flying around and yellow electrons floating towards them. Once absorbed by the ATP Synthase, the electrons spin for one revolution and are then shot back out into the environment. The turbine on the ATP Synthase only spins when electrons are attached.
 
-<iframe src="https://drive.google.com/file/d/1r9WkPDaF-lnwSEAfEO9rlomAQuKGNdHj/preview" class="video"></iframe>
-
-This next video shows two freely flying ATP Synthase with a bunch of floating electrons.
-
-<iframe src="https://drive.google.com/file/d/1QZivhEZtLXikhO2gOChl7l7Bm-AI623J/preview" class="video"></iframe>
+<iframe src="https://drive.google.com/file/d/1PUzy4M_hF5oIE33VbvYajNVXY4Ps9CCO/preview" class="video"></iframe>
 
 ## Additional Links
 
